@@ -9,12 +9,12 @@ FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu-20.04
  && sudo apt-get install -y software-properties-common \ 
  && sudo add-apt-repository -y ppa:system76/pop \
  && sudo apt-get update \
- && sudo apt-get install -y build-essential cmake lldb gdb ninja-build libgtest-dev wget curl \
+ && sudo apt-get install -y build-essential cmake gdb ninja-build libgtest-dev wget curl \
  && sudo rm -rf /var/lib/apt/lists/*
  
  RUN \
  # bring in latest clang toolchain
- wget https://apt.llvm.org/llvm.sh \
+ sudo wget https://apt.llvm.org/llvm.sh \
  && sudo chmod +x llvm.sh \
  && sudo ./llvm.sh 16 all \
  && rm llvm.sh \
