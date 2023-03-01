@@ -17,4 +17,4 @@ FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu-20.04
  sudo wget https://apt.llvm.org/llvm.sh \
  && sudo chmod +x llvm.sh \
  && sudo ./llvm.sh 16 all \
- && rm llvm.sh \
+ && sudo rm llvm.sh \
