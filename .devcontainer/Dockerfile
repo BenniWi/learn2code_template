@@ -14,7 +14,8 @@ FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu-20.04
  
  RUN \
  # bring in latest clang toolchain
- sudo wget https://apt.llvm.org/llvm.sh \
- && sudo chmod +x llvm.sh \
- && sudo ./llvm.sh 16 all \
- && sudo rm llvm.sh \
+ echo "hello world"
+ # sudo wget https://apt.llvm.org/llvm.sh \
+ #&& sudo chmod +x llvm.sh \
+ #&& sudo ./llvm.sh 16 all \
+ #&& sudo rm llvm.sh \
