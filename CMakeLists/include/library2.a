@@ -1,0 +1,4 @@
+#ifndef ADD_H
+#define ADD_H
+int pic()
+#endif

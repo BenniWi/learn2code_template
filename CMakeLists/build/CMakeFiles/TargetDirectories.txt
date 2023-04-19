@@ -1,0 +1,7 @@
+/workspaces/learn-git/CMakeLists/build/CMakeFiles/student.dir
+/workspaces/learn-git/CMakeLists/build/CMakeFiles/library1.a.dir
+/workspaces/learn-git/CMakeLists/build/CMakeFiles/library2.a.dir
+/workspaces/learn-git/CMakeLists/build/CMakeFiles/exec.dir
+/workspaces/learn-git/CMakeLists/build/CMakeFiles/exed.dir
+/workspaces/learn-git/CMakeLists/build/CMakeFiles/edit_cache.dir
+/workspaces/learn-git/CMakeLists/build/CMakeFiles/rebuild_cache.dir
