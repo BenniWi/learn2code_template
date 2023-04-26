@@ -12,7 +12,7 @@
 	add_compile_options(-Wall -Wextra -Werror -pedantic -O0)
 
 	# add an executabel and assign files to it
-	add_executable(basics_in_Cpp C++/Unterricht_1.cpp)
+	add_executable(basics_in_Cpp C++/Untericht_2.cpp)
 
 	#add Library
 	#add_library(library1.a STATIC add.c)

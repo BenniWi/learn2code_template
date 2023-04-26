@@ -129,29 +129,29 @@ basics_in_Cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_in_Cpp.dir/build.make CMakeFiles/basics_in_Cpp.dir/build
 .PHONY : basics_in_Cpp/fast
 
-C++/Unterricht_1.o: C++/Unterricht_1.cpp.o
-.PHONY : C++/Unterricht_1.o
+C++/Untericht_2.o: C++/Untericht_2.cpp.o
+.PHONY : C++/Untericht_2.o
 
 # target to build an object file
-C++/Unterricht_1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_in_Cpp.dir/build.make CMakeFiles/basics_in_Cpp.dir/C++/Unterricht_1.cpp.o
-.PHONY : C++/Unterricht_1.cpp.o
+C++/Untericht_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_in_Cpp.dir/build.make CMakeFiles/basics_in_Cpp.dir/C++/Untericht_2.cpp.o
+.PHONY : C++/Untericht_2.cpp.o
 
-C++/Unterricht_1.i: C++/Unterricht_1.cpp.i
-.PHONY : C++/Unterricht_1.i
+C++/Untericht_2.i: C++/Untericht_2.cpp.i
+.PHONY : C++/Untericht_2.i
 
 # target to preprocess a source file
-C++/Unterricht_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_in_Cpp.dir/build.make CMakeFiles/basics_in_Cpp.dir/C++/Unterricht_1.cpp.i
-.PHONY : C++/Unterricht_1.cpp.i
+C++/Untericht_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_in_Cpp.dir/build.make CMakeFiles/basics_in_Cpp.dir/C++/Untericht_2.cpp.i
+.PHONY : C++/Untericht_2.cpp.i
 
-C++/Unterricht_1.s: C++/Unterricht_1.cpp.s
-.PHONY : C++/Unterricht_1.s
+C++/Untericht_2.s: C++/Untericht_2.cpp.s
+.PHONY : C++/Untericht_2.s
 
 # target to generate assembly for a file
-C++/Unterricht_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_in_Cpp.dir/build.make CMakeFiles/basics_in_Cpp.dir/C++/Unterricht_1.cpp.s
-.PHONY : C++/Unterricht_1.cpp.s
+C++/Untericht_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_in_Cpp.dir/build.make CMakeFiles/basics_in_Cpp.dir/C++/Untericht_2.cpp.s
+.PHONY : C++/Untericht_2.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... basics_in_Cpp"
-	@echo "... C++/Unterricht_1.o"
-	@echo "... C++/Unterricht_1.i"
-	@echo "... C++/Unterricht_1.s"
+	@echo "... C++/Untericht_2.o"
+	@echo "... C++/Untericht_2.i"
+	@echo "... C++/Untericht_2.s"
 .PHONY : help
 
 
