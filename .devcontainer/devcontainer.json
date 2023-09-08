@@ -1,7 +1,7 @@
 {
-  "build": { "dockerfile": "Dockerfile" },
+  	"image": "benniwi/learn2code:base",
 
-  // Configure tool-specific properties.
+  	// Configure tool-specific properties.
 	"customizations": {
 		// Configure properties specific to VS Code.
 		"vscode": {		
