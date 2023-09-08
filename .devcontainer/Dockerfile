@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu-20.04
+FROM benniwi/learn2code:base
 
 RUN \
  sudo apt-get update \
