@@ -1,7 +1,7 @@
 {
-  "build": { "dockerfile": "Dockerfile" },
+  	"image": "benniwi/learn2code:base",
 
-  // Configure tool-specific properties.
+  	// Configure tool-specific properties.
 	"customizations": {
 		// Configure properties specific to VS Code.
 		"vscode": {		
@@ -24,7 +24,10 @@
 				"franneck94.c-cpp-runner",
 				"DavidAnson.vscode-markdownlint",
 				"mdickin.markdown-shortcuts",
-				"ElecTreeFrying.insert-random-text"
+				"ElecTreeFrying.insert-random-text",
+				"ElecTreeFrying.insert-random-text",
+				"streetsidesoftware.code-spell-checker-british-english",
+				"streetsidesoftware.code-spell-checker-german"
 			]
 		}
 	}
