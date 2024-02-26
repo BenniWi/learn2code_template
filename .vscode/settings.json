@@ -12,5 +12,10 @@
     "clang-tidy.compilerArgs": [
         "--config-file=.clang-tidy"
     ],
+    "clang-tidy.buildPath": "build",
+
     "cmake.options.statusBarVisibility": "compact",
+    "cmake.configureArgs": ["-DCMAKE_EXPORT_COMPILE_COMMANDS=ON"],
+
+    "terminal.integrated.defaultProfile.linux": "bash",
 }
