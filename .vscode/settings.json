@@ -12,4 +12,5 @@
     "clang-tidy.compilerArgs": [
         "--config-file=.clang-tidy"
     ],
+    "cmake.options.statusBarVisibility": "compact",
 }
