@@ -5,8 +5,8 @@
     "[c]": {
         "editor.defaultFormatter": "xaver.clang-format"
     },
-    "clang-format.executable": "clang-format-16",
-    "clang-tidy.executable": "clang-tidy-16",
+    "clang-format.executable": "clang-format-18",
+    "clang-tidy.executable": "clang-tidy-18",
     "clang-tidy.fixOnSave": true,
     "clang-tidy.lintOnSave": true,
     "clang-tidy.compilerArgs": [
